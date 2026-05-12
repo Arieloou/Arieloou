@@ -1,6 +1,6 @@
 # ¡Hola, soy Ariel! :)
 
-### 💻 Ingeniero de Software | Backend Developer | Arquitectura MVC & Clean Design
+### Ingeniero de Software | Backend Developer | Arquitectura MVC & Clean Design
 
 Soy un desarrollador backend con pasión por construir soluciones escalables, limpias y bien estructuradas.  
 Disfruto trabajar en proyectos que combinan **arquitectura sólida**, **bases de datos complejas** y **experiencia de usuario fluida**.  
@@ -8,7 +8,7 @@ Actualmente exploro la integración entre **.NET**, **Python**, **Laravel** y **
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 - Me especializo en **arquitectura backend**, **modelado de datos** y **automatización de procesos**.  
 - Experiencia desarrollando en **ASP.NET MVC**, **Laravel**, **.NET MAUI**, **Unity** y **Python (Pydantic + SQLAlchemy)**.  
@@ -19,7 +19,7 @@ Actualmente exploro la integración entre **.NET**, **Python**, **Laravel** y **
 
 ---
 
-## 🧰 Stack Tecnológico
+## Stack Tecnológico
 
 **Lenguajes:**  
 `C#` `Python` `PHP` `JavaScript` `SQL`
@@ -35,7 +35,7 @@ Actualmente exploro la integración entre **.NET**, **Python**, **Laravel** y **
 
 ---
 
-## 🧩 Proyectos Destacados
+## Proyectos Destacados
 
 ### **Reserva de Canchas – App MAUI .NET**
 Aplicación móvil para la Universidad de las Américas que permite reservar canchas deportivas.  
@@ -75,19 +75,18 @@ Incluye entregas a domicilio y diseño de **interfaz web** con **Laravel + React
 
 ---
 
-## 💡 En desarrollo
+## En desarrollo
 
-- Implementación de **N8N** para centralizar la experiencia del usuario en un **portal de noticias personalizado**.  
-- Nuevas ideas de integración entre **backend modular** y **front React** usando **Inertia.js**.
+- Electronic Medical Assistant (A system for the outpatient consultation)
 
 ---
 
-## 📬 Conecta conmigo
+## Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/ariel-anchapaxi-b5239a164)  
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arieloou)
 
 ---
 
-*"El código limpio no solo funciona, también se entiende."*  
+  *"El que no conoce a Claude, a cualquier IA le reza."*  
 — Arielo
